@@ -17,7 +17,13 @@ body {
     font-family: Luckiest Guy,serif;
     font-weight: 400
 }
-
+.seed-char {
+    z-index: 1;
+    bottom: 0;
+    position: absolute;
+    left: 0;
+    left:100px;
+}
 a {
     text-decoration: none
 }
