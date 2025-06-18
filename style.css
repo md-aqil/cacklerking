@@ -1445,7 +1445,7 @@ header .center_content .content p .text-inner {
 }
 
 .who_is_cackler_king .bottom .card02 {
-    background-image: url(/img/card-02.png);
+    background-image: url(./img/card-02.png);
     border-right: 26px solid rgba(34,34,34,1);
     background-color: #cd8530
 }
